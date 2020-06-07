@@ -36,6 +36,6 @@ user_groups:
 ---
 <!--StartFragment-->
 
-Mathematical Finance graduate student with one-year professional experience in risk management. Former quantitative analyst intern of the financial engineering department, First Seafront.
+Mathematical Finance graduate student with one-year professional experience in risk management. Former quantitative analyst intern of the financial engineering department, First Seafront Management Company.
 
 <!--EndFragment-->
