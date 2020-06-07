@@ -7,8 +7,7 @@ authors:
   - admin
 title: Chang Deng
 role: Student of MSMF 2021
-bio: My professional interests include trading, derivatives pricing, portfolio
-  management and risk management.
+bio: ""
 interests:
   - Trading
   - Derivatives Pricing
@@ -38,6 +37,6 @@ user_groups:
 ---
 <!--StartFragment-->
 
-Mathematical Finance graduate student with an academic background in financial engineering and one-year experience in risk management. Former intern of the financial engineering department, First Seafront
+Mathematical Finance graduate student with an academic background in financial engineering and one-year experience in risk management. Former intern of the financial engineering department, First Seafront.
 
 <!--EndFragment-->
