@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: Boston University
     url: ""
 superuser: true
 authors:
