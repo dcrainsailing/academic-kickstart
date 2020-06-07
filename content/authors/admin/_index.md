@@ -30,10 +30,9 @@ education:
     - course: BEc in Finance(Financial Engineering)
       institution: Jinan University
       year: 2014
-email: ""
+email: dcrainsailing@hotmail.com
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 ---
 <!--StartFragment-->
 
