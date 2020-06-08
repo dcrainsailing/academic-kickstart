@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Shenzhen, China"
   date_start = "2018-06-01"
   date_end = "2019-06-01"
-  description = "Intern of Financial Engineering Department"
+  description = """
+  Intern of Financial Engineering Department
   Responsibilities include:
   
   * Fund Research
